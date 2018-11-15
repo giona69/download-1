@@ -1,5 +1,5 @@
 {
-  "name": "download-rename",
+  "name": "download-1",
   "main": "download.js",
   "version": "1.4.9",
   "description": "file downloading and renaming using client-side javascript",
@@ -21,7 +21,7 @@
   "files": [
     "download.js"
   ],
-  "npmName": "download-rename",
+  "npmName": "download-1",
   "npmFileMap": [
     {
       "basePath": "/",
