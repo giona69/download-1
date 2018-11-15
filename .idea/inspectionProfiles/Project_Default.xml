@@ -1,0 +1,204 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="true" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="tap-highlight-color" />
+            <item index="1" class="java.lang.String" itemvalue="text-size-adjust" />
+            <item index="2" class="java.lang.String" itemvalue="-ms-transition" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="146">
+            <item index="0" class="java.lang.String" itemvalue="strip-whitespace" />
+            <item index="1" class="java.lang.String" itemvalue="selected" />
+            <item index="2" class="java.lang.String" itemvalue="as" />
+            <item index="3" class="java.lang.String" itemvalue="id$" />
+            <item index="4" class="java.lang.String" itemvalue="on-iron-localstorage-load-empty" />
+            <item index="5" class="java.lang.String" itemvalue="items" />
+            <item index="6" class="java.lang.String" itemvalue="title$" />
+            <item index="7" class="java.lang.String" itemvalue="class$" />
+            <item index="8" class="java.lang.String" itemvalue="on-tap" />
+            <item index="9" class="java.lang.String" itemvalue="initial-count" />
+            <item index="10" class="java.lang.String" itemvalue="on-click" />
+            <item index="11" class="java.lang.String" itemvalue="emoji" />
+            <item index="12" class="java.lang.String" itemvalue="on-change" />
+            <item index="13" class="java.lang.String" itemvalue="name" />
+            <item index="14" class="java.lang.String" itemvalue="query-params" />
+            <item index="15" class="java.lang.String" itemvalue="route-changed" />
+            <item index="16" class="java.lang.String" itemvalue="fullbleed" />
+            <item index="17" class="java.lang.String" itemvalue="if" />
+            <item index="18" class="java.lang.String" itemvalue="attr-for-selected" />
+            <item index="19" class="java.lang.String" itemvalue="fallback-selection" />
+            <item index="20" class="java.lang.String" itemvalue="selected-attribute" />
+            <item index="21" class="java.lang.String" itemvalue="scroll-pos" />
+            <item index="22" class="java.lang.String" itemvalue="url-data" />
+            <item index="23" class="java.lang.String" itemvalue="data" />
+            <item index="24" class="java.lang.String" itemvalue="response" />
+            <item index="25" class="java.lang.String" itemvalue="on-post-response" />
+            <item index="26" class="java.lang.String" itemvalue="type" />
+            <item index="27" class="java.lang.String" itemvalue="required" />
+            <item index="28" class="java.lang.String" itemvalue="label" />
+            <item index="29" class="java.lang.String" itemvalue="pattern" />
+            <item index="30" class="java.lang.String" itemvalue="value" />
+            <item index="31" class="java.lang.String" itemvalue="min-lenght" />
+            <item index="32" class="java.lang.String" itemvalue="error-message" />
+            <item index="33" class="java.lang.String" itemvalue="char-counter" />
+            <item index="34" class="java.lang.String" itemvalue="url-param" />
+            <item index="35" class="java.lang.String" itemvalue="on-load-response" />
+            <item index="36" class="java.lang.String" itemvalue="locale" />
+            <item index="37" class="java.lang.String" itemvalue="on-retry" />
+            <item index="38" class="java.lang.String" itemvalue="fire-threshold" />
+            <item index="39" class="java.lang.String" itemvalue="user-name" />
+            <item index="40" class="java.lang.String" itemvalue="user-photo" />
+            <item index="41" class="java.lang.String" itemvalue="user-type" />
+            <item index="42" class="java.lang.String" itemvalue="email-verified" />
+            <item index="43" class="java.lang.String" itemvalue="firebaseid" />
+            <item index="44" class="java.lang.String" itemvalue="user-nick" />
+            <item index="45" class="java.lang.String" itemvalue="logged" />
+            <item index="46" class="java.lang.String" itemvalue="settings" />
+            <item index="47" class="java.lang.String" itemvalue="escort-user" />
+            <item index="48" class="java.lang.String" itemvalue="on-signedin" />
+            <item index="49" class="java.lang.String" itemvalue="on-registered" />
+            <item index="50" class="java.lang.String" itemvalue="on-signout" />
+            <item index="51" class="java.lang.String" itemvalue="effects" />
+            <item index="52" class="java.lang.String" itemvalue="noink" />
+            <item index="53" class="java.lang.String" itemvalue="count" />
+            <item index="54" class="java.lang.String" itemvalue="favorites" />
+            <item index="55" class="java.lang.String" itemvalue="hide-images" />
+            <item index="56" class="java.lang.String" itemvalue="sitemap" />
+            <item index="57" class="java.lang.String" itemvalue="dataurl" />
+            <item index="58" class="java.lang.String" itemvalue="reload" />
+            <item index="59" class="java.lang.String" itemvalue="wellcome" />
+            <item index="60" class="java.lang.String" itemvalue="city" />
+            <item index="61" class="java.lang.String" itemvalue="placeholder-image" />
+            <item index="62" class="java.lang.String" itemvalue="label$" />
+            <item index="63" class="java.lang.String" itemvalue="active" />
+            <item index="64" class="java.lang.String" itemvalue="auto-validate" />
+            <item index="65" class="java.lang.String" itemvalue="error-message$" />
+            <item index="66" class="java.lang.String" itemvalue="readonly" />
+            <item index="67" class="java.lang.String" itemvalue="pippo" />
+            <item index="68" class="java.lang.String" itemvalue="route" />
+            <item index="69" class="java.lang.String" itemvalue="cities" />
+            <item index="70" class="java.lang.String" itemvalue="on-login" />
+            <item index="71" class="java.lang.String" itemvalue="on-recupera" />
+            <item index="72" class="java.lang.String" itemvalue="on-cambio" />
+            <item index="73" class="java.lang.String" itemvalue="nick-name" />
+            <item index="74" class="java.lang.String" itemvalue="on-sendverify" />
+            <item index="75" class="java.lang.String" itemvalue="on-clickgoogle" />
+            <item index="76" class="java.lang.String" itemvalue="on-clicktwitt" />
+            <item index="77" class="java.lang.String" itemvalue="price" />
+            <item index="78" class="java.lang.String" itemvalue="image" />
+            <item index="79" class="java.lang.String" itemvalue="idescort" />
+            <item index="80" class="java.lang.String" itemvalue="height" />
+            <item index="81" class="java.lang.String" itemvalue="fk" />
+            <item index="82" class="java.lang.String" itemvalue="bbj" />
+            <item index="83" class="java.lang.String" itemvalue="anal" />
+            <item index="84" class="java.lang.String" itemvalue="loaded" />
+            <item index="85" class="java.lang.String" itemvalue="phone" />
+            <item index="86" class="java.lang.String" itemvalue="favorite" />
+            <item index="87" class="java.lang.String" itemvalue="agency" />
+            <item index="88" class="java.lang.String" itemvalue="newtoday" />
+            <item index="89" class="java.lang.String" itemvalue="backtoday" />
+            <item index="90" class="java.lang.String" itemvalue="on-remfav" />
+            <item index="91" class="java.lang.String" itemvalue="on-addfav" />
+            <item index="92" class="java.lang.String" itemvalue="style$" />
+            <item index="93" class="java.lang.String" itemvalue="area" />
+            <item index="94" class="java.lang.String" itemvalue="date" />
+            <item index="95" class="java.lang.String" itemvalue="headline" />
+            <item index="96" class="java.lang.String" itemvalue="text" />
+            <item index="97" class="java.lang.String" itemvalue="comments" />
+            <item index="98" class="java.lang.String" itemvalue="commentslist" />
+            <item index="99" class="java.lang.String" itemvalue="file" />
+            <item index="100" class="java.lang.String" itemvalue="on-upload-response" />
+            <item index="101" class="java.lang.String" itemvalue="minlength" />
+            <item index="102" class="java.lang.String" itemvalue="maxlength" />
+            <item index="103" class="java.lang.String" itemvalue="gallery-pics" />
+            <item index="104" class="java.lang.String" itemvalue="inputmode" />
+            <item index="105" class="java.lang.String" itemvalue="set-icons" />
+            <item index="106" class="java.lang.String" itemvalue="on-setcover" />
+            <item index="107" class="java.lang.String" itemvalue="on-deletepic" />
+            <item index="108" class="java.lang.String" itemvalue="on-addpic" />
+            <item index="109" class="java.lang.String" itemvalue="my-hidden" />
+            <item index="110" class="java.lang.String" itemvalue="selected-tab" />
+            <item index="111" class="java.lang.String" itemvalue="on-mouseover" />
+            <item index="112" class="java.lang.String" itemvalue="on-mouseout" />
+            <item index="113" class="java.lang.String" itemvalue="small-screen" />
+            <item index="114" class="java.lang.String" itemvalue="user-text" />
+            <item index="115" class="java.lang.String" itemvalue="user-pic" />
+            <item index="116" class="java.lang.String" itemvalue="user-id" />
+            <item index="117" class="java.lang.String" itemvalue="menucity" />
+            <item index="118" class="java.lang.String" itemvalue="section" />
+            <item index="119" class="java.lang.String" itemvalue="author" />
+            <item index="120" class="java.lang.String" itemvalue="summary" />
+            <item index="121" class="java.lang.String" itemvalue="meta" />
+            <item index="122" class="java.lang.String" itemvalue="name$" />
+            <item index="123" class="java.lang.String" itemvalue="section-title" />
+            <item index="124" class="java.lang.String" itemvalue="section-url" />
+            <item index="125" class="java.lang.String" itemvalue="href$" />
+            <item index="126" class="java.lang.String" itemvalue="icon$" />
+            <item index="127" class="java.lang.String" itemvalue="url" />
+            <item index="128" class="java.lang.String" itemvalue="on-clickfb" />
+            <item index="129" class="java.lang.String" itemvalue="sections" />
+            <item index="130" class="java.lang.String" itemvalue="checked" />
+            <item index="131" class="java.lang.String" itemvalue="auto-confirm" />
+            <item index="132" class="java.lang.String" itemvalue="on-dom-change" />
+            <item index="133" class="java.lang.String" itemvalue="include" />
+            <item index="134" class="java.lang.String" itemvalue="viewbox" />
+            <item index="135" class="java.lang.String" itemvalue="dialog-confirm" />
+            <item index="136" class="java.lang.String" itemvalue="autofocus" />
+            <item index="137" class="java.lang.String" itemvalue="race" />
+            <item index="138" class="java.lang.String" itemvalue="nation" />
+            <item index="139" class="java.lang.String" itemvalue="filter-text" />
+            <item index="140" class="java.lang.String" itemvalue="menu-opened" />
+            <item index="141" class="java.lang.String" itemvalue="menu-lopened" />
+            <item index="142" class="java.lang.String" itemvalue="drawer-opened" />
+            <item index="143" class="java.lang.String" itemvalue="visible" />
+            <item index="144" class="java.lang.String" itemvalue="name" />
+            <item index="145" class="java.lang.String" itemvalue="text-background" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="custom-style" />
+            <item index="7" class="java.lang.String" itemvalue="iron-ajax" />
+            <item index="8" class="java.lang.String" itemvalue="iron-a11y-keys" />
+            <item index="9" class="java.lang.String" itemvalue="iron-selector" />
+            <item index="10" class="java.lang.String" itemvalue="test-fixture" />
+            <item index="11" class="java.lang.String" itemvalue="iron-iconset-svg" />
+            <item index="12" class="java.lang.String" itemvalue="app-route" />
+            <item index="13" class="java.lang.String" itemvalue="iron-media-query" />
+            <item index="14" class="java.lang.String" itemvalue="main-app-cms" />
+            <item index="15" class="java.lang.String" itemvalue="test-fixture" />
+            <item index="16" class="java.lang.String" itemvalue="name" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
