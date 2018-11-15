@@ -1,37 +1,20 @@
 {
   "name": "download-1",
+  "version": "1.0.0",
+  "description": "[![NPM version][npm-image]][npm-url]  [![Size][size-image]][size-url]  [![License][license-image]][license-url]  [![CDNJS](https://img.shields.io/cdnjs/v/downloadjs.svg)](https://cdnjs.com/libraries/downloadjs)",
   "main": "download.js",
-  "version": "1.4.9",
-  "description": "file downloading and renaming using client-side javascript",
-  "keywords": [
-    "files",
-    "dataURL",
-    "blob",
-    "download"
-  ],
-  "license": "MIT",
-  "author": "giona69 <giona.granata@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/giona69/download-1.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "email": "giona.granata@gmail.com"
+    "url": "https://github.com/giona69/download-1/issues"
   },
-  "files": [
-    "download.js"
-  ],
-  "npmName": "download-1",
-  "npmFileMap": [
-    {
-      "basePath": "/",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "homepage": "https://github.com/giona69/download-1#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/giona69/download-1#readme"
 }
